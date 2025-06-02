@@ -1,13 +1,7 @@
 /* style.css */
 
-body {
-  background-color: white;
+body, html, p, h1, h2, h3, div {
   font-family: "Courier New", Courier, monospace !important;
-  color: black; /* optional, ensures text is visible on white */
-  margin: 0;
-  padding: 1em;
-}
-
-body, p, h1, h2, h3, h4, h5, h6, div, span {
-  font-family: "Courier New", Courier, monospace;
+  background-color: white;
+  color: black;
 }
