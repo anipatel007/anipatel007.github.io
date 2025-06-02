@@ -5,11 +5,3 @@ body, html, p, h1, h2, h3, div {
   background-color: white;
   color: black;
 }
-
-
-.fira-code-<uniquifier> {
-  font-family: "Fira Code", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
