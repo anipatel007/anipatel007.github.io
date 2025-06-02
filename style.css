@@ -2,7 +2,7 @@
 
 body {
   background-color: white;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Courier New", Courier, monospace !important;
   color: black; /* optional, ensures text is visible on white */
   margin: 0;
   padding: 1em;
